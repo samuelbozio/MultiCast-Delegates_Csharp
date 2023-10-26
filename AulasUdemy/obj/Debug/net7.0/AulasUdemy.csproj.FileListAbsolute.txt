@@ -1,0 +1,14 @@
+C:\Users\Samuel\source\repos\AulasUdemy\AulasUdemy\bin\Debug\net7.0\AulasUdemy.exe
+C:\Users\Samuel\source\repos\AulasUdemy\AulasUdemy\bin\Debug\net7.0\AulasUdemy.deps.json
+C:\Users\Samuel\source\repos\AulasUdemy\AulasUdemy\bin\Debug\net7.0\AulasUdemy.runtimeconfig.json
+C:\Users\Samuel\source\repos\AulasUdemy\AulasUdemy\bin\Debug\net7.0\AulasUdemy.dll
+C:\Users\Samuel\source\repos\AulasUdemy\AulasUdemy\bin\Debug\net7.0\AulasUdemy.pdb
+C:\Users\Samuel\source\repos\AulasUdemy\AulasUdemy\obj\Debug\net7.0\AulasUdemy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samuel\source\repos\AulasUdemy\AulasUdemy\obj\Debug\net7.0\AulasUdemy.AssemblyInfoInputs.cache
+C:\Users\Samuel\source\repos\AulasUdemy\AulasUdemy\obj\Debug\net7.0\AulasUdemy.AssemblyInfo.cs
+C:\Users\Samuel\source\repos\AulasUdemy\AulasUdemy\obj\Debug\net7.0\AulasUdemy.csproj.CoreCompileInputs.cache
+C:\Users\Samuel\source\repos\AulasUdemy\AulasUdemy\obj\Debug\net7.0\AulasUdemy.dll
+C:\Users\Samuel\source\repos\AulasUdemy\AulasUdemy\obj\Debug\net7.0\refint\AulasUdemy.dll
+C:\Users\Samuel\source\repos\AulasUdemy\AulasUdemy\obj\Debug\net7.0\AulasUdemy.pdb
+C:\Users\Samuel\source\repos\AulasUdemy\AulasUdemy\obj\Debug\net7.0\AulasUdemy.genruntimeconfig.cache
+C:\Users\Samuel\source\repos\AulasUdemy\AulasUdemy\obj\Debug\net7.0\ref\AulasUdemy.dll
